@@ -6,6 +6,7 @@ Design look - similar to that of aesop skincare but more grey gradients and shad
 ## Home Landing Page Design
 - Introduction (1-2 paragraphs)
 - Picture of self
+- Slideshow of screen shots of projects that I have done at the bottom
 
 ## Resume Route
 - Skills and current knowledge
@@ -40,5 +41,6 @@ Design look - similar to that of aesop skincare but more grey gradients and shad
     - #eff3f6
     - #e4f0fb
     - #f1f3f4
-    - accent color: #044b1e (slytherin green), #9decba (pastel green)
+    - accent color: #044b1e (slytherin green), #9decba (pastel green), #a4c71d (kiwi lime)
+    - #db8317 (burnt orange)
 
