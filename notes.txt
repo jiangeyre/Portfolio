@@ -1,0 +1,10 @@
+Dependencies:
+
+React
+Redux
+Redux thunk
+testing
+material ui
+formik
+yup
+styled components
